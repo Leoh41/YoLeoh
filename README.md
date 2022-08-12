@@ -1,6 +1,6 @@
 # Olá me chamo Leo 
 
-👨‍💻 Trabalho ;  Banco de Dados
+👨‍💻 Trabalho Com; Banco de Dados
 
 📖 Estudando; Front-end and Back-End
 
