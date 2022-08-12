@@ -1,3 +1,3 @@
 # Olá me chamo Leo Chafre 
 
-Trabalho ; 
+👨‍💻 Trabalho ; Analista de Dados 
