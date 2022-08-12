@@ -37,7 +37,9 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/__Leo41__?t=mTkERB6FTlBvdP04jzmwBg&s=33" target="_blank"><img 
+                                                                                     
+src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" target="_blank"></a>
   
 
 
