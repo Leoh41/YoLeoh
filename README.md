@@ -39,12 +39,22 @@
 <div> 
  
 
-<a href = "zalooneforever79@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+  
+
+ 	
+
+
+
+  <a href = "m"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a
 
  
   
   
-  </div>
-  
+
+
 
  
