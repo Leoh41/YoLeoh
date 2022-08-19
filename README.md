@@ -39,9 +39,11 @@
 <div> 
  
 
-  <a href= "https://twitter.com/__Leo41__?t=ErU2OpENMGLmbCoROrsrsQ&s=33"
+  <a href = "mailto: zalooneforever76@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
-target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+
 
   
 
@@ -49,14 +51,14 @@ target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-
 
 
 
-  <a href = "zalooneforever76@gmal.com" "m"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
 
   
 
  
   
   
-</div>
+
 
 
  
