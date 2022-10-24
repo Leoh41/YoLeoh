@@ -1,6 +1,6 @@
 # Olá me chamo Leeh
 
-👨‍💻 Trabalho Com; Banco de Dados
+
 
 📖 Estudando; Front-end and Back-End
 
